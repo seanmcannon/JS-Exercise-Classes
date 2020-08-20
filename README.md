@@ -1,4 +1,4 @@
-# The _class_ Syntax
+# The _clas s_ Syntax
 
 This challenge focuses on using the new for ES6 `class` syntax.
 
